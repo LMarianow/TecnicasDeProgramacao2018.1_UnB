@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesteArvoreAVL:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a arvore deve estar vazia e possuir altura == 0 antes de qualquer insercao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve atribuir valor a raiz apos primeira insercao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve ter altura = 2 se os numeros (2,1,3) forem inseridos[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve ter altura = 2 se ocorre a insercao de 3 numeros em ordem crescente devido ao balanceamento[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar 'true' quando um no que esta na arvore eh pesquisado[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar falso quando um no que nao esta na arvore eh pesquisado[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve remover o no sem filhos corretamente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve remover o no com 1 filho corretamente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve remover o no com 2 filhos corretamente[0m[0m

@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteArrayList, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(OpenAddressingHashMapTestSuite, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteListaEncadeada, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteArvoreBinaria, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteListaDuplaEncadeada, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteArvoreAVL, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestePilha, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TesteFila, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BucketHashMapTestSuite, org.scalatest.tools.Framework$$anon$1@644c32c8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 386 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 61[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 61, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestePilha[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BucketHashMapTestSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteListaDuplaEncadeada[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteListaEncadeada[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenAddressingHashMapTestSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteFila[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteArvoreAVL[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteArrayList[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TesteArvoreBinaria[0m

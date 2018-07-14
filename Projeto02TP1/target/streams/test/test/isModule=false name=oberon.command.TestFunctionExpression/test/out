@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestFunctionExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA FunctionExpression('x', AddExpression(VarRef('x'), IntegerNumberExpression(1)), IntegerNumberExpression(10))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should be evaluated to IntValue(11) of value 11 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  2 was not equal to 1 (TestFunctionExpression.scala:24)[0m[0m

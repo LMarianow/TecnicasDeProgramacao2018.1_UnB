@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesteListaDuplaEncadeada:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve inserir elemento no topo de uma lista vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve inserir elemento no topo de uma lista nao vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve inserir o elemento no fim da lista vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve inserir o elemento no fim de uma lista nao vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a busca por posicao deve apresentar o devido valor do no[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve emitir alerta ao informar posicao invalida na busca de um no[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve apresentar alerta quando inserir posicao de elemento invalida na remocao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve deletar apenas o elemento com a posicao especificada[0m[0m

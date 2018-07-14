@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesteListaEncadeada:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- o tamanho de uma lista vazia deve ser igual a 0 antes de qualquer insercao.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ocorreu mudanca no tamanho da lista depois de inserir elementos[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a busca por posicao deve apresentar o devido valor do no[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- insercao de valores entre valores inseridos anteriormente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- emitir o devido alerta se a posicao for menor do que 0 e maior que tamanho da lista[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- inicio da lista mudou apos inserir elemento na primeira posicao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- o tamanho da lista decrementou apos remover um elemento[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- inicio da lista mudou apos deletar elemento da primeira posicao[0m[0m

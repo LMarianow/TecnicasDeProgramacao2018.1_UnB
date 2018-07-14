@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesteArrayList:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- array list deve ser de tamanho == 0 antes de qualquer insercao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve possuir tamanho == 2 apos insercao de 2 elementos[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar o valor se posicao de busca for valida[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve dar o devido alerta se tentar remover em um array list vazio[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve dar o devido alerta se tentar remover uma posicao inexistente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar o valor da devida posicao quando chamada a funcao remove e a posicao for valida[0m[0m

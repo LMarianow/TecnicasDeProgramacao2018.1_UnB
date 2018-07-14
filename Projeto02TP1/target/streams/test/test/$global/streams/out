@@ -1,0 +1,48 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.TestPrettyPrinter, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.TestProcedureCommand, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestBigExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.command.TestWhile, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestMinExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestAndExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.command.TestAssignment, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestEqExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestBigOrEqExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestDivExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestAddExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestSubExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestMinOrEqExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestModExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestOrExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.TestFunctionExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.TestVarDeclaration, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.command.TestIfThen, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.expression.TestMultiExpression, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(oberon.command.TestIfThenElse, org.scalatest.tools.Framework$$anon$1@472d5d78, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 787 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 50[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 21, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 50, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.TestPrettyPrinter[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.TestProcedureCommand[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestBigExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.command.TestWhile[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestMinExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestAndExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.command.TestAssignment[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestEqExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestBigOrEqExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestDivExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestAddExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestSubExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestMinOrEqExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestModExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestOrExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.TestFunctionExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.TestVarDeclaration[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.command.TestIfThen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.expression.TestMultiExpression[0m
+[0m[[0m[0mdebug[0m] [0m[0m	oberon.command.TestIfThenElse[0m

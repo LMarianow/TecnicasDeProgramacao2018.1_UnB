@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestProcedureExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man declaration of a procedure[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be resultado == IntValue(2) in return Procedure 'soma'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be resultado == IntValue(10) in return Procedure 'subtracao'[0m[0m

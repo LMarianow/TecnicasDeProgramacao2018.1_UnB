@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestBigExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man bigger expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value false in Big(IntValue(5), Add(IntValue(3), IntValue(2)))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value false in Big(IntValue(5), Add(IntValue(3), IntValue(3)))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value true in Big(Add(IntValue(3), IntValue(3)), IntValue(5))[0m[0m

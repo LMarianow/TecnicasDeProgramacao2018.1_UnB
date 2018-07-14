@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTesteFila:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve ter tamanho == 0 antes de qualquer insercao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve ter tamanho == 1 depois de uma insercao e tamanho == 3 depois de mais duas insercoes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve remover corretamente e o tamanho da fila diminuir em 1 depois de cada remocao[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar o devido alerta ao tentar remover elemento de uma pilha vazia[0m[0m

@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestPrettyPrinter:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32ma pretty printer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (2 + 3) quando chamamos accept na expressao AddExpression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir if quando chamamos accept na expressao If_Then[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir var x = 10 quando chamamos accept na expressao Assignment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir x = 10 quando chamamos o accept na expressao VarRef[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (3 > 2) quando chamamos o accept na expressão BigExpression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (3 >= 3) quando chamamos o accept na expressão BigOrEqExpression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (2 < 3) quando chamamos o accept na expressão MinExpression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (3 <= 3) quando chamamos accept na expressao MinOrEqExpression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Imprimir (5 % 5) quando chamamos accept na expressao ModExpression[0m[0m

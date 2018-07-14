@@ -1,0 +1,65 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/scala-data-structures_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaDuplaTraits$No.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaDuplaTraits$No.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Grafos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Grafos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaEncadeadaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaEncadeadaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvoreBinaria.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvoreBinaria.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Grafos$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Grafos$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Grafos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Grafos$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvoreAVL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvoreAVL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvalidArgument$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/InvalidArgument$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvoreBinariaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvoreBinariaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pilha.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Pilha.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaEncadeada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaEncadeada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvAVLVazia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvAVLVazia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoArvBin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/NoArvBin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaEncadeadaTraits$No.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaEncadeadaTraits$No.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PilhaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/PilhaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvalidMethod.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/InvalidMethod.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaDuplamenteEncadeada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaDuplamenteEncadeada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListaDuplaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ListaDuplaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MutableHashMap$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/MutableHashMap$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvalidArgument.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/InvalidArgument.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoArvBin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/NoArvBin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvalidMethod$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/InvalidMethod$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MutableHashMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/MutableHashMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvoreAVL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvoreAVL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fila.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/Fila.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArvoreAVLTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArvoreAVLTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArrayListTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArrayListTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArrayList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/ArrayList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FilaTraits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lmariano/Desktop/Scala Data Structures/target/scala-2.12/classes/FilaTraits.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

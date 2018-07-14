@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestNotExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man not expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value true in Not(BoolValue(false))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value false in Not(BoolValue(true))[0m[0m

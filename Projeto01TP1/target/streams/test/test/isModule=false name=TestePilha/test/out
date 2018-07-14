@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestePilha:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve ter tamanho == 0 antes de qualquer insercao em uma pilha vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve aumentar o tamanho em 1 apos qualquer insercao em uma pilha vazia e nao vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve diminuir em 1 o tamanho apos chamada a funcao de remocao em uma pilha nao vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve emitir o devido alerta ao tentar remover um elemento de uma pilha vazia[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- deve retornar o ultimo elemento quando funcao topo() e chamada[0m[0m

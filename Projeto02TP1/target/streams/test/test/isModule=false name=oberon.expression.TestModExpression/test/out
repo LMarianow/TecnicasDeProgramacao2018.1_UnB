@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestModExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32ma module expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value 1 in ModExpression(IntValue(9), IntValue(8))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value 0 in ModExpression(IntValue(4), IntValue(2))[0m[0m

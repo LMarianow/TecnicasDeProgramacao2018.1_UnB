@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBucketHashMapTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testando a inserir e pesquisar - HashMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testando a remove - HashMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testanto o fator de carga - HashMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Teste das Colisões - HashMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Incluindo uma grande quantidade de dados - HashMap[0m[0m

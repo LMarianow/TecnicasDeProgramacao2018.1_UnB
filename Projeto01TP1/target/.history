@@ -1,0 +1,14 @@
+compile
+test
+compile
+test
+version
+sbt version
+help
+show
+settings
+sbtVersion
+scalaVersion
+compile
+test
+exit

@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestMultiExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man multiplication expressions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value 50 in Multi(IntValue(5), IntValue(10))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should lead to an exception in Multi(IntValue(5), BoolValue(False))[0m[0m

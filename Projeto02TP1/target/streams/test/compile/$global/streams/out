@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:12:15: object Declaracoes is not a member of package oberon[0m
+[0m[[0m[31merror[0m] [0m[0mimport oberon.Declaracoes._[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:26:5: not found: value VarDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    VarDeclaration("x")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:27:5: not found: value VarDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    VarDeclaration("y")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:28:5: not found: value FuncDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    FuncDeclaration("soma",new Assignment("resultado",new AddExpression(new VarRef("x"), new VarRef("y"))))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:30:16: trait Function1 is abstract; cannot be instantiated[0m
+[0m[[0m[31merror[0m] [0m[0m    val func = new Function("soma",List(IntValue(2),IntValue(4))).eval[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:38:5: not found: value VarDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    VarDeclaration("x")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:39:5: not found: value VarDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    VarDeclaration("y")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:41:5: not found: value FuncDeclaration[0m
+[0m[[0m[31merror[0m] [0m[0m    FuncDeclaration("subtracao",new Assignment("resultado",new SubExpression(new VarRef("x"), new VarRef("y"))))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_Projetos/Trabalho2tpp_meta2/src/test/scala/oberon/expression/TestFunctionExpression.scala:43:16: trait Function1 is abstract; cannot be instantiated[0m
+[0m[[0m[31merror[0m] [0m[0m    val func = new Function("subtracao",List(IntValue(14),IntValue(6))).eval[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

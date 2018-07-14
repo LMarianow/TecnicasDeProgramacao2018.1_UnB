@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestFunctionExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man declaration of a function[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be func == IntValue(6) in return function call 'soma'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be func == IntValue(8) in return function call 'subtracao'[0m[0m

@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestDivExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man division expressions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value 2 in Div(IntValue(10), IntValue(5))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should lead to an exception in Div(IntValue(5), BoolValue(False))[0m[0m

@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestNotEqExpression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32man not equal expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value true in Not(BoolValue(true), BoolValue(false))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value false in Not(BoolValue(true), BoolValue(true))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return value true in Not(BoolValue(false), BoolValue(false))[0m[0m
