@@ -27,7 +27,7 @@ O interpretador da linguagem oberon em scala foi separado em três principais pa
 * **Biblioteca Scala Meta** - *3.7.4*
 
 ### Testes
-Para realizar os testes das implementações das Estruturas de Dados foi utilizado a biblioteca ScalaTest. Os testes realizados se encontram em [TESTES](src/test).
+Para realizar os testes das implementações das Estruturas de Dados foi utilizado a biblioteca ScalaTest. Os testes realizados se encontram em [TESTES](src/test/scala/oberon).
 
 ### Execução Testes
 Para de Execução dos testes siga os passos a seguir:

@@ -31,7 +31,7 @@ O objetivo do projeto consiste no desenvolvimento de uma biblioteca de estrutura
 * **Biblioteca Scala Test** - *3.0.5*
 
 ### Testes
-Para realizar os testes das implementações das Estruturas de Dados foi utilizado a biblioteca ScalaTest. Os testes realizados se encontram em [TESTES](src/test).
+Para realizar os testes das implementações das Estruturas de Dados foi utilizado a biblioteca ScalaTest. Os testes realizados se encontram em [TESTES](src/test/scala).
 
 ### Execução Testes
 Para de Execução dos testes siga os passos a seguir:
